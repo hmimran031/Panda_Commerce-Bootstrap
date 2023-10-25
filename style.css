@@ -4,6 +4,9 @@ body {
   font-family: "Poppins", sans-serif;
 }
 /* Slider Section Start  */
+.panda-bg {
+  background-color: #feeae9;
+}
 .slider-items h1 {
   color: #1f1f1f;
   font-size: 3.5rem;
@@ -20,7 +23,7 @@ body {
   font-size: 2.5625rem;
   font-weight: 500;
 }
-.btn.btn-danger {
+.panda-btn {
   width: 10.5rem;
   padding: 0.875rem 1.25rem;
   color: #fff;
@@ -32,8 +35,26 @@ body {
 /* Slider Section End  */
 
 /* Category Section Start  */
-.p-3 .d-flex h1 {
-  font-size: 2.25rem;
-  font-weight: 500;
+.panda-backg {
+  background-color: #ff136f;
+}
+.panda-backgd {
+  background-color: #3f07f8;
+}
+.category img {
+  width: 6.25rem;
 }
 /* Category Section End  */
+
+/* Shoes_Backpack Section Start  */
+
+#Shoes {
+  background-color: #f4f4f4;
+  padding-top: 3rem;
+}
+#Backpack {
+  background-color: #f4f4f4;
+  padding-bottom: 3rem;
+}
+
+/* Shoes_Backpack Section End  */
